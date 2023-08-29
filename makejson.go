@@ -1,3 +1,7 @@
+//This is my personal peer-graded assignment written for 
+//the 4th Week of Getting Started with Go course
+//provided by Coursera.
+
 package main
 
 import (
